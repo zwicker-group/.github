@@ -10,5 +10,6 @@ This page collects our open source software:
 * [`flory`](https://github.com/qiangyicheng/flory) for determining coexisting phases in multicomponent mixtures
 * [`py-droplets`](https://github.com/zwicker-group/py-droplets) for analyzing and representing droplets
 * [`py-modelrunner`](https://github.com/zwicker-group/py-modelrunner) for running simulations (on the cluster)
+* [`utilitiez`](https://github.com/zwicker-group/utilitiez) to collect utility functions that we use
 * [`MathematicaToPython`](https://github.com/zwicker-group/MathematicaToPython) for converting Mathematica expressions to python code
 * [`tutorial-pattern-formation-in-cells`](https://github.com/zwicker-group/tutorial-pattern-formation-in-cells) a tutorial we developed for a winter school
