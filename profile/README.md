@@ -9,7 +9,7 @@ This page collects our open source software:
 * [`py-pde`](https://github.com/zwicker-group/py-pde) for solving partial differential equations
 * [`flory`](https://github.com/qiangyicheng/flory) for determining coexisting phases in multicomponent mixtures
 * [`py-droplets`](https://github.com/zwicker-group/py-droplets) for analyzing and representing droplets
-* [`py-sim`](https://github.com/zwicker-group/py-sim) for general physical simulations, mostly focusing on droplets
+* [`emulsim`](https://github.com/zwicker-group/emulsim) for general physical simulations, mostly focusing on droplets
 * [`py-modelrunner`](https://github.com/zwicker-group/py-modelrunner) for running simulations (on the cluster)
 * [`utilitiez`](https://github.com/zwicker-group/utilitiez) to collect utility functions that we use
 * [`MathematicaToPython`](https://github.com/zwicker-group/MathematicaToPython) for converting Mathematica expressions to python code
