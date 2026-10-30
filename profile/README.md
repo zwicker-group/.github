@@ -8,6 +8,7 @@ We are a research group that is interested in understanding basic biological pro
 This page collects our open source software:
 * [`py-pde`](https://github.com/zwicker-group/py-pde) for solving partial differential equations
 * [`flory`](https://github.com/qiangyicheng/flory) for determining coexisting phases in multicomponent mixtures
+* [`pyphasediagram`](https://github.com/steenmalcolm/pyphasediagram) for phase diagram analysis of ternary Flory–Huggins systems
 * [`py-droplets`](https://github.com/zwicker-group/py-droplets) for analyzing and representing droplets
 * [`emulsim`](https://github.com/zwicker-group/emulsim) for general physical simulations, mostly focusing on droplets
 * [`py-modelrunner`](https://github.com/zwicker-group/py-modelrunner) for running simulations (on the cluster)
